@@ -1,3 +1,6 @@
 token.json
 client_secrets.json
 scripts/config.py
+.env
+token.json
+client_secrets.json

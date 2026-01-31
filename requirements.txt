@@ -1,0 +1,14 @@
+google-generativeai
+google-api-python-client
+google-auth-oauthlib
+edge-tts
+fastapi
+uvicorn
+moviepy==1.0.3
+numpy
+scipy
+pillow
+requests
+yt-dlp
+apscheduler
+python-multipart

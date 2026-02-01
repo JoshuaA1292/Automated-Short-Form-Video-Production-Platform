@@ -1,6 +1,13 @@
-token.json
-client_secrets.json
-scripts/config.py
 .env
 token.json
 client_secrets.json
+scripts/config.py
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+venv/
+assets/
+input/
+output/
+brainrot.db
